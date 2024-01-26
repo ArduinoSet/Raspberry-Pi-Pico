@@ -8,7 +8,10 @@
 В диспетчере устройств OS Windows плата отображается как виртуальный COM-порт с именем Устройство с последовательным интерфейсом USB.
 ![image](https://github.com/ArduinoSet/Raspberry-Pi-Pico/assets/21033375/e7791e53-cba0-47b8-9e91-99ce25b6a11e)
 
-
-
-
 -------Установка Thonny Python IDE---------
+Скачайте и установите Thonny Python IDE
+Запустите и переключите текущий интерпретатор Python на MicroPython с платой Raspberry Pi Pico на интересующем COM-порте.
+![image](https://github.com/ArduinoSet/Raspberry-Pi-Pico/assets/21033375/60e4fec4-dc7d-4239-bd41-aa614b8a9e0b)
+Тестирование среды
+Интерпретатор Python позволяет работать с подключённой платой «налету»: исполнять выражения, вызывать функции, просматривать значения переменных и т.д. Попробуйте, например, ввести в консоль 6 + 8 и нажать Enter. Плата выполнит команду и вернёт результат 14.
+![image](https://github.com/ArduinoSet/Raspberry-Pi-Pico/assets/21033375/02b4a85d-2b85-44b1-888e-0205c24854b3)
